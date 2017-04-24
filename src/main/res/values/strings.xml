@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoolCalculator</string>
+    <string name="ac_text">AC</string>
+    <string name="plusminus_text">+/-</string>
+</resources>

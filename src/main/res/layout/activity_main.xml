@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cool.me.coolcalculator.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="50sp"
+        android:id="@+id/result_text"
+        android:gravity="right"
+        android:textAlignment="gravity"
+        />
+    <!-- First row -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/ac_text"
+            android:textSize="@dimen/text_size"
+            android:id="@+id/ac_button"
+            android:onClick="acClicked"
+            android:backgroundTint="@color/toprowtint"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="95dp"
+            android:text="+/-"
+            android:textSize="@dimen/text_size"
+            android:id="@+id/plusminus_button"
+            android:onClick="pomClicked"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="%"
+            android:textSize="@dimen/text_size"
+            android:id="@+id/percenet_button"
+            android:onClick="perClicked"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="84dp"
+            android:text="&#247;"
+            android:textColor="@color/whiteText"
+            android:background="@color/colorBackground"
+            android:textSize="@dimen/text_size"
+            android:id="@+id/division_button"
+            android:onClick="divClicked"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="7"
+            android:textSize="@dimen/text_size"
+            android:id="@+id/seven_button"
+            android:onClick="sevenClicked"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="95dp"
+            android:text="8"
+            android:textSize="@dimen/text_size"
+            android:onClick="eightClicked"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="9"
+            android:textSize="@dimen/text_size"
+            android:onClick = "nineClicked"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="84dp"
+            android:text="x"
+            android:textColor="@color/whiteText"
+            android:background="@color/colorBackground"
+            android:textSize="@dimen/text_size"
+            android:onClick="mulClicked"/>
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="4"
+            android:textSize="@dimen/text_size"
+            android:onClick = "fourClicked"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="95dp"
+            android:text="5"
+            android:textSize="@dimen/text_size"
+            android:onClick = "fiveClicked"/>
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:onClick="sixClicked"
+            android:text="6"
+            android:textSize="@dimen/text_size" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="84dp"
+            android:text="-"
+            android:textColor="@color/whiteText"
+            android:background="@color/colorBackground"
+            android:textSize="@dimen/text_size"
+            android:onClick="subClicked"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="1"
+            android:textSize="@dimen/text_size"
+            android:onClick = "oneClicked"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="95dp"
+            android:text="2"
+            android:textSize="@dimen/text_size"
+            android:onClick = "twoClicked"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="3"
+            android:textSize="@dimen/text_size"
+            android:onClick = "threeClicked"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="81dp"
+            android:text="+"
+            android:textColor="@color/whiteText"
+            android:background="@color/colorBackground"
+            android:textSize="@dimen/text_size"
+            android:onClick = "addClicked"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="177dp"
+            android:layout_height="wrap_content"
+            android:onClick="zeroClicked"
+            android:text="0"
+            android:textSize="@dimen/text_size"
+            android:gravity="left"
+            android:textAlignment="gravity"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="decClicked"
+            android:text="."
+            android:textSize="@dimen/text_size" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBackground"
+            android:onClick="equClicked"
+            android:text="="
+            android:textColor="@color/whiteText"
+            android:textSize="@dimen/text_size" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
