@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\1fd0f9ea5297e16f9371f29a813dd558ecc48028\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\classes_c594ffc519de1b75b79ba19160a414781a1f257d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\33012172591a1cc015be94d535999a86a45a2374\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\classes_027529c3f677704d4b27fb313fa58396ceb41f01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e379cf3d688fa1e064043e8e278ad3be436f260">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_03fec877c28775984015feaf2d5643d4d535277d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\0de3e9ca39bb22d6235f6ac155b1c0a3614b2963\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\classes_da2ddcd9661ae1f3b70c08e1d0ba30d831700b82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_0da3e44e56038bb66a76aded2211753189b022ff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a26b5f0c17422a90b45ef30b62d4cdb595d21625\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\e690abb5be78c6e1685c14872fd44bbe914acfe5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\classes_74526a48cd9c74e107c4c165611dd8d59c342fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\728ee43c8aebd5aca1d1615a32c783dc20e55090\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\classes_0e52ba28c34798d064cb8c91bf31259fca7b5e3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\6df32bd560aa59aa45c1e3b5fe17acfbf2a9d947\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\classes_d2faea2ab99924a39de00125cfbe94052bebb95d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\930ed2d1564981ef7d5bb5df83df83d1e83b020b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\classes_1ef628fea023519571bd9e8a5297c99171f81290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\c77ee4be229f8e4ea1aecc670464c9dd46b4ef76\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\classes_cf12a537c75c5f65d007361b6b85124e0f5eb478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\d8b45cf61e6bc9ad8d1320b29b069a0cd7a73d2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\classes_5bcfa6c417b0551c3f7d2e3611382fbb5ea1f07d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8c87ef6b7aca19b9d99ff57c82ceb57bfc3c5935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\a5817a0dc8929d758c062bff7332e05ae04a0f6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\CoolCalculator\app\build\intermediates\pre-dexed\debug\classes_e5705b4dcd8387811e53366a7be6a5b0a853a8d5.jar" />
+    </item>
+
+</items>
